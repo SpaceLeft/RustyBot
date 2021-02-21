@@ -1,0 +1,28 @@
+import { IConfig } from '@types'
+
+export default <IConfig> {
+    mode: 'production', // production/dev
+    token: '',
+    mongoDB: '',
+    prefix: '.',
+    ownerID: '',
+    webhook: {
+        id: '',
+        token: ''
+    },
+    status: [],
+    'top.gg': '',
+    sentryDSN: '',
+    google_api: '',
+    spotify: {
+        clientID: '',
+        clientSecret: ''
+    },
+    nodes: [{
+        identifier: '',
+        host: '',
+        password: '',
+        port: 0000,
+        secure: true
+    }]
+}
