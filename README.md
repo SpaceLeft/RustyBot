@@ -1,5 +1,5 @@
 # Renzo (Discord Bot)
-
+> My Discord ( T41y0u0#2001 )
 # Features
 
 - [x] Translate By Emoji Flags (New)
@@ -11,7 +11,6 @@
 - [x] Games
 - [x] Reddit
 
-# Commands (Not all)
 
 ### Configuration
 
@@ -85,10 +84,6 @@
 
 * **leave:** No description available.
 * **reactrole:** Reaction based roles is an intuitive way to offer your members the ability to add and remove roles to themselves.
-
-
-# Self hosting
-**I will not provide any support for self hosted versions of Renzo.**
 
 
 #### License
