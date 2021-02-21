@@ -1,5 +1,5 @@
 # Renzo (Discord Bot)
-> My Discord [x] ( T41y0u0#2001 )
+> My Discord ( T41y0u0#2001 )
 # Features
 
 - [x] Translate By Emoji Flags (New)
