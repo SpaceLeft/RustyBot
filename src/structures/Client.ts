@@ -42,7 +42,7 @@ class Client extends DiscordClient {
         for (const file of utils.readdir(__dirname, '../commands/')) {
             const _Command = (await import(file)).default
             if (_Command?.prototype instanceof Command) {
-                const command = new _Command(this)
+                const command = new _Command()
                 this.commands.set(command.name, command)
                 command.aliases.forEach(alias => this.aliases.set(alias, command.name))
             }
