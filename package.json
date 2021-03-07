@@ -1,14 +1,14 @@
 {
-	"name": "renzo",
+	"name": "rustybot",
 	"version": "1.0.0",
-	"description": "Renzo Discord Bot!",
+	"description": "RustyBot Discord Bot!",
 	"main": "app.js",
-	"author": "TheMaestroo",
+	"author": "- Daddy.exe#2001 / - Night.exe#0001",
 	"license": "MIT",
 	"private": true,
 	"scripts": {
 		"test": "ts-node ./test.ts",
-		"start": "node ./bin/renzo",
+		"start": "node ./bin/rustybot",
 		"lint": "eslint ./src"
 	},
 	"dependencies": {
