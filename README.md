@@ -1,5 +1,5 @@
-# Renzo (Discord Bot)
-> My Discord ( T41y0u0#2001 )
+# RustyBot (Discord Bot)
+> Owners (- Daddy.exe#2001 / - Night.exe#0001)
 # Features
 
 - [x] Translate By Emoji Flags (New)
@@ -85,6 +85,4 @@
 * **leave:** No description available.
 * **reactrole:** Reaction based roles is an intuitive way to offer your members the ability to add and remove roles to themselves.
 
-
-#### License
-Renzo is licensed under the permissive MIT license. License details can be found in the `license` file in the root of the project.
+**[Click Here,] (https://discord.gg/EE3Jkay4h8)**
