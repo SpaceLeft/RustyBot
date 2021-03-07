@@ -8,7 +8,7 @@
 	"private": true,
 	"scripts": {
 		"test": "ts-node ./test.ts",
-		"start": "node ./bin/rustybot",
+		"start": "node ./bin/rusty",
 		"lint": "eslint ./src"
 	},
 	"dependencies": {
