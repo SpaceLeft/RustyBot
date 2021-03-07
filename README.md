@@ -84,5 +84,3 @@
 
 * **leave:** No description available.
 * **reactrole:** Reaction based roles is an intuitive way to offer your members the ability to add and remove roles to themselves.
-
-(Click Here)[https://discord.gg/EE3Jkay4h8]
