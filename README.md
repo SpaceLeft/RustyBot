@@ -1,10 +1,6 @@
 # RustyBot (Discord Bot)
 > Owners (- Daddy.exe#2001 / - Night.exe#0001)
 
-</br></br>
-<a href="https://discord.gg/EE3Jkay4h8"><img src="https://invidget.switchblade.xyz/yS4rJv5nns"/></a>
-<br><br>
-
 [![Support Server](https://img.shields.io/discord/697029214289002536?color=%237289DA&label=Support%20Guild&logo=discord)](https://discord.gg/9PPHmaXAbq)
 
 # Features
