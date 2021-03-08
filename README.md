@@ -1,5 +1,7 @@
 # RustyBot (Discord Bot)
 > Owners (- Daddy.exe#2001 / - Night.exe#0001)
+[![Support Server](https://img.shields.io/discord/697029214289002536?color=%237289DA&label=Support%20Guild&logo=discord)](https://discord.gg/9PPHmaXAbq)
+
 # Features
 
 - [x] Translate By Emoji Flags (New)
